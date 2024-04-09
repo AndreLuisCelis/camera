@@ -2,6 +2,8 @@
 
 Bem-vindo ao Capturador de Momentos Espontâneos! Este é um projeto incrível que permite que você faça vídeos divertidos diretamente do seu navegador. 🎉
 
+> Link para a aplicação: https://camera-app-celisapp.netlify.app/
+
 ## Funcionalidades 🚀
 
 - Faça vídeos incríveis com áudio e salve-os para assistir mais tarde!
